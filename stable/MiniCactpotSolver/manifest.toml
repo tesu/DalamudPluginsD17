@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/daemitus/MiniCactpotSolver.git"
+owners = [ "daemitus",]
+project_path = "MiniCactpotSolver"
+commit = "df78632c096655bdbc31a4f93983d2ddfe4eb3f9"
+changelog = ""

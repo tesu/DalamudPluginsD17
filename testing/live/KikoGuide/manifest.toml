@@ -1,7 +1,14 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/KikoGuide.git"
-commit = "30f3846cbb36c2173538ff6f5874b749c04aa687"
+commit = "604f7877211771ee739cac3a4ff0b0152823233c"
 owners = [
     "BitsOfAByte",
 ]
-project_path = "src"
+project_path = "KikoGuide"
+changelog = """
+New Features:
+- Add 'notes' to guides
+- Add better separation between sections
+Bug Fixes:
+- Properly dispose of Wotsit IPC
+"""

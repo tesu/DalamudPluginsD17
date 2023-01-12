@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/reiichi001/dalamud-chattyper.git"
-commit = "f9f5b37e537ba8a662be0e04eca0fe47b507df14"
+commit = "55bbaa98829397ee6dac9704d08227c966e7ebc6"
 owners = [
     "reiichi001",
 ]
 project_path = "ChatTyper"
-changelog = "Fixed a typo causing /chattyper help to fail."
+changelog = "Net7 / API 8 update"

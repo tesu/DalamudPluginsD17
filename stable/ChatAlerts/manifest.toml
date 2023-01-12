@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Ottermandias/ChatAlerts.git"
+commit = "18324ac188e87024d37dc41e158e6f4fa9d0db51"
+owners = [
+    "Ottermandias",
+]
+project_path = "ChatAlerts"
+changelog = "Updated for Dalamud staging."

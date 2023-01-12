@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/ItsBexy/CrossUp.git"
+commit = "fdbe599318ac9c842563e36069332d0e990f046a"
+owners = [
+    "ItsBexy",
+]
+changelog = "Fixed a bug with icon display in the configuration window."
